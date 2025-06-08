@@ -1,0 +1,8 @@
+एह्/DEM एशिया/NNP दी/PSP सभनें/INTF शा/PSP बड्डी/JJ मस्जिदें/NN बिच्चा/PSP इक/QC ऐ/VM ।/SYM
+एह्दा/PRP निर्माण/VM नवाब/NN शाहजहां/NN ने/PSP कीता/VM हा/VAUX ।/SYM
+एह्दा/PRP प्रवेश/NN द्वार/NN दो/QC मंजिला/JJ ऐ/VM ।/SYM
+एह्देच/PRP चार/QC मेहराब/NN ते/CC 9/QC प्रवेश/NN द्वार/NN न/PSP ।/SYM
+पूरी/JJ अमारत/NN बड़ी/INTF शैल/JJ ऐ/VM ।/SYM  
+इत्थै/PRP आयोजत/VM त्र'ऊं/QC दिनें/NN दे /PSP इज्तेमा/NN च/PSP पूरे/JJ देश/NN दे/PSP लोकें/NN गी/PSP साद्दा/JJ दित्ता/VM गेआ/VM ऐ/VAUX ।/SYM 
+अंश/NN इक/DEM चंगा/JJ जागतै/NN ऐ/VAUX |/SYM
+केह्/WQ हाल/NN ऐ/VAUX ?/SYM
