@@ -36,7 +36,7 @@ def sent2features(sent): return [word2features(sent, i) for i in range(len(sent)
 def sent2labels(sent): return [label for token, label in sent]
 
 # Step 3: Load data
-sentences = load_dataset('DogriDataset.txt')
+sentences = load_dataset('HindiDataset.txt')
 X = [sent2features(s) for s in sentences]
 y = [sent2labels(s) for s in sentences]
 
